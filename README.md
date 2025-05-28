@@ -6,7 +6,7 @@
 > 📦 ![Apps Published](https://img.shields.io/badge/Published%20Apps-26-blue?style=flat-square&logo=flutter&logoColor=white)
 > ## 🔥 **26 Published Mobile Apps**  
 I design, build, and deploy production-grade Flutter applications.
-## 🚀 I’ve Published **26** Mobile Applications!
+## 🚀 **26** Published Mobile Apps!
 
 
 > 📌 *Referenced in my CV — showcasing my complete app portfolio*
