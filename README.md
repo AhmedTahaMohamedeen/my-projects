@@ -1,7 +1,8 @@
 
 # 📱 **Ahmed's Mobile App Portfolio**
 
-> 🧑‍💻 *Professional Flutter Developer*  
+> 🧑‍💻 *Professional Flutter Developer*
+> 📦 *📲 Published 26 Mobile Apps*  
 > 📌 *Referenced in my CV — showcasing my complete app portfolio*
 
 ---
