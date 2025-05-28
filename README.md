@@ -113,6 +113,6 @@
 
 ## 📬 Contact
 
-📧 **Email**: [ahmed.gpt.dev@gmail.com](mailto:ahmedtahamohamedeen@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/ahmedgpt](www.linkedin.com/in/ahmed-taha-pro)
+📧 **Email**: [ahmedtahamohamedeen@gmail.com](mailto:ahmedtahamohamedeen@gmail.com)  
+🔗 **LinkedIn**: [Ahmed_taha](www.linkedin.com/in/ahmed-taha-pro)
 
