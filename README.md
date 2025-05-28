@@ -2,11 +2,10 @@
 # 📱 **Ahmed's Mobile App Portfolio**
 
 > 🧑‍💻 *Professional Flutter Developer*
-> 📦 *📲 Published 26 Mobile Apps*
-> 📦 ![Apps Published](https://img.shields.io/badge/Published%20Apps-26-blue?style=flat-square&logo=flutter&logoColor=white)
-> ## 🔥 **26 Published Mobile Apps**  
-I design, build, and deploy production-grade Flutter applications.
+> 
 ## 🚀 **26** Published Mobile Apps!
+I design, build, and deploy production-grade Flutter applications.
+
 
 
 > 📌 *Referenced in my CV — showcasing my complete app portfolio*
