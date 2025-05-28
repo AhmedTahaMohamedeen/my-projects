@@ -6,7 +6,7 @@
 
 ---
 
-## 🥇 **Featured App**
+##### 🥇 **Featured App**
 
 ### 🛍️ Al Taqadum Store
 *Official store app of Al Taqadum Club*  
