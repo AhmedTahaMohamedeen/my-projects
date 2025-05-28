@@ -34,7 +34,7 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 
 ## 🧾 **Legal & Booking**
 
-### ⚖️ **قضيتي**
+### ⚖️ **Qadyty**
 
 * Full law office management solution for lawyers.
 * [App Store](https://apps.apple.com/eg/app/%D9%82%D8%B6%D9%8A%D8%AA%D9%89/id6740283579)
@@ -53,7 +53,7 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 
 ## 🛒 **E-Commerce & Herbal Products**
 
-### 🌿 **عطارة البارون**
+### 🌿 **Baroon**
 
 * Herbal eCommerce app with modern shopping features.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.baron) | [App Store](https://apps.apple.com/eg/app/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86-%D9%84%D9%84%D8%B9%D8%B7%D8%A7%D8%B1%D9%87/id6593708979)
@@ -77,17 +77,17 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 * Construction and home furnishing services marketplace.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.facility) | [App Store](https://apps.apple.com/eg/app/my-facilty-%D9%85%D9%86%D8%B4%D8%A3%D8%AA%D9%8A/id1599383738)
 
-### 💧 **غزير**
+### 💧 **ghazeer**
 
 * Water donation platform for mosques and homes.
 * [Google Play](https://play.google.com/store/apps/details?id=com.ghazeer.app) | [App Store](https://apps.apple.com/eg/app/%D8%BA%D8%B2%D9%8A%D8%B1/id6480347680)
 
-### 💦 **رشه**
+### 💦 **rashaa**
 
 * Simple app for water delivery and donation.
 * [Google Play](https://play.google.com/store/apps/details?id=net.rashah.client) | [App Store](https://apps.apple.com/eg/app/%D8%B1%D8%B4%D9%87/id6742661720)
 
-### 🧾 **تربح**
+### 🧾 **trbh**
 
 * App for daily deals, services, and product exchange.
 * [Google Play](https://play.google.com/store/apps/details?id=app.haftastore.com) | [App Store](https://apps.apple.com/eg/app/%D8%AA%D8%B1%D8%A8%D8%AD/id1565825300)
@@ -101,7 +101,7 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 * Herbal product delivery for eCommerce platform.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.barondelivery) | [App Store](https://apps.apple.com/eg/app/baron-delivery/id6737470732)
 
-### 📦 **سلة - salla**
+### 📦 ** salla**
 
 * User app to order food from multiple restaurants.
 * [Google Play](https://play.google.com/store/apps/details?id=com.salla.softlix) | [App Store](https://apps.apple.com/eg/app/%D8%B3%D9%84%D9%87/id6740242674)
@@ -116,7 +116,7 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 * Driver app to deliver orders for Salla.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.sallaDelivery) | [App Store](https://apps.apple.com/eg/app/salla-delivery/id6740336272)
 
-### 🍇 **توت مارت - TOOTMART**
+### 🍇 ** TOOTMART**
 
 * Marketplace for groceries and delivery.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.toot) | [App Store](https://apps.apple.com/eg/app/%D8%AA%D9%88%D8%AA-%D9%85%D8%A7%D8%B1%D8%AA-tootmart/id6737470542)
@@ -126,18 +126,18 @@ Welcome to my official Flutter app portfolio. This file contains a complete list
 * Delivery app for TOOTMART platform.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.tootdelivery) | [App Store](https://apps.apple.com/eg/app/toot-delivery/id6737470634)
 
-### 🚚 **مندوب الريان**
+### 🚚 **Rayan Hero**
 
 * Delivery agent app for herbal orders.
 * [Google Play](https://play.google.com/store/apps/details?id=com.softlix.alryandriver)
 
-### 🛻 **وانيت - wanet**
+### 🛻 ** wanet**
 
 * Request pickup trucks for goods transport.
 * [Google Play](https://play.google.com/store/apps/details?id=com.wanetapp.user) | [App Store](https://apps.apple.com/eg/app/%D9%88%D8%A7%D9%86%D9%8A%D8%AA/id6444813364)
 
-### 👨‍✈️ **سائق وانيت - Wanet Driver**
 
+### 👨‍✈️ **Wanet Driver**
 * Driver app for the Wanet transport system.
 * [Google Play](https://play.google.com/store/apps/details?id=com.wanetapp.providers) | [App Store](https://apps.apple.com/eg/app/%D9%83%D8%A7%D8%A8%D8%AA%D9%86-%D9%88%D8%A7%D9%86%D9%8A%D8%AA/id6444854234)
 
